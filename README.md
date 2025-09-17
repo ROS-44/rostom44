@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>currently i'm setting up a mini server and working on a website</h3>
+<h3>currently i'm setting up a mini server and finishing a website</h3>
 
-<p>Available for work ☺️</p>
+<p>Situation : working for BMW ☺️ and not available</p>
 
 <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" style="height:150px; width:auto;" />
 
@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px; width:auto;" alt="Linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="height:30px; width:auto;" alt="Ubuntu logo" title="Ubuntu Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="height:30px; width:auto;" alt="Ubuntu logo" title="Ubuntu Server" />
   <img width="12" />
 
   
