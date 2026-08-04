@@ -9,7 +9,7 @@
   🌱 Interested in modern web development, mobile applications, and clean software architecture<br />
   🛠️ Building with JavaScript, TypeScript, React, Node.js, and more<br />
   📍 Based in France<br />
-  🚫 Not currently available for new opportunities
+  🚫 Not currently available for new opportunities<br />
   📖 open for non urgent small projects
 </h3>
 
@@ -68,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="height:30px; width:auto;" alt="Ubuntu logo" title="Ubuntu Server" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Google_Sheets_Logo_05.2026.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="height:30px; width:auto;" alt="google sheets logo" title="google sheets" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Tampermonkey_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="height:30px; width:auto;" alt="Tampermonkey logo" title="Tampermonkey" />
   
   <img width="12" />
 </div>
