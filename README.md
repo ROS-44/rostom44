@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rostom</h1>
+<h1 align="center">Hi 👋! I'm Rostom</h1>
 
 <h3 align="center">Full-Stack Developer from France 🇫🇷</h3>
 
-<p align="center"> Currently working at BMW 🚘<br /> Not available for new opportunities at the moment. </p>
+<p align="center">
+  Currently working at BMW 🚘<br />
+  Not available for new opportunities at the moment.
+</p>
 
-<img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="180" alt="Developer working on a laptop" />
+<img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" style="height:150px; width:auto;" />
 
-👨‍💻 About Me
-💼 Full-stack developer currently working at BMW
-🌱 Interested in modern web development, mobile applications, and clean software architecture
-🛠️ Building with JavaScript, TypeScript, React, Node.js, and more
-📍 Based in France
-🚫 Not currently available for new opportunities
+<p>
+  👨‍💻 Full-stack developer currently working at BMW<br />
+  🌱 Interested in modern web development, mobile applications, and clean software architecture<br />
+  🛠️ Building with JavaScript, TypeScript, React, Node.js, and more<br />
+  📍 Based in France<br />
+  🚫 Not currently available for new opportunities
+</p>
 
 <br clear="right" />
 
