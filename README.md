@@ -2,7 +2,6 @@
 
 <p align="center">
   Currently working at BMW 🚘<br />
-  Not available for new opportunities at the moment.
 </p>
 
 <h3>
@@ -11,6 +10,7 @@
   🛠️ Building with JavaScript, TypeScript, React, Node.js, and more<br />
   📍 Based in France<br />
   🚫 Not currently available for new opportunities
+  📖 open for non urgent small projects
 </h3>
 
 <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" style="height:150px; width:auto;" />
@@ -66,6 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px; width:auto;" alt="Linux logo" title="Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="height:30px; width:auto;" alt="Ubuntu logo" title="Ubuntu Server" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Google_Sheets_Logo_05.2026.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" style="height:30px; width:auto;" alt="google sheets logo" title="google sheets" />
+  
   <img width="12" />
 </div>
 
